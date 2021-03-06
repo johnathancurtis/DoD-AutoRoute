@@ -2,8 +2,8 @@
 
 ## Table of Contents
 - [Description](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dod-automated-routing-description)
-- [ Entity Relationship Diagram (ERD)](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-erd)
-- 
+- [Entity Relationship Diagram (ERD)](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-erd)
+- [DoDAR Database Schema](url)
 
 <br><br>
 
