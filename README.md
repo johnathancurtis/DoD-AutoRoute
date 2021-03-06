@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - Description
-- Entity Relationship Diagram (ERD)
+- [ Entity Relationship Diagram (ERD)](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-erd) Entity Relationship Diagram (ERD)
 
 <br><br>
 
