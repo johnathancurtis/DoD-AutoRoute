@@ -14,3 +14,5 @@ As a military Administrative professional, there are certain documents that are 
 
 ### [DODAR ERD]
 ![Dod Automated Router](DODAR-ERD.jpeg) 
+
+[Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
