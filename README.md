@@ -20,7 +20,7 @@ As a military Administrative professional, there are certain documents that are 
 
 [Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
-## [DoDAR Preliminary Wireframes](Home page wireframe 1.jpeg, Page 2.jpeg, Page 3.jpeg, Page 4.jpeg, Page 5.jpeg, Page 6.jpeg, Page 7.jpeg)
+## [DoDAR Preliminary Wireframes](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/Home%20page%20wireframe%201.jpg?raw=true)
 
 ## Database Schema
 
