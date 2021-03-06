@@ -1,7 +1,7 @@
 # DODAR
 
 ## Table of Contents
-- Description
+- [Description](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dod-automated-routing-description)
 - [ Entity Relationship Diagram (ERD)](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-erd)
 
 <br><br>
