@@ -7,7 +7,7 @@
 - Use Cases
 - Requirements Table
 - Test Table
-- [DoDAR Draft Wireframes](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-preliminary-wireframes)
+- [DoDAR Draft Wireframes](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-draft-wireframes)
 - [DoDAR Database Schema](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#database-schema)
 
 
