@@ -25,7 +25,7 @@ As a military Administrative professional, there are certain documents that are 
 ## User Stories
 
 ## Use Cases
-![DoD Automated Router]()
+![DoD Automated Router](DoDAR-UML.jpeg)
 
 ## Requirements Table
 
