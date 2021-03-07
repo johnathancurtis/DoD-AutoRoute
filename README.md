@@ -24,6 +24,8 @@ As a military Administrative professional, there are certain documents that are 
 
 ## User Stories
 
+[Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
+
 ## Use Cases
 ![DoD Automated Router](DoDAR-UML.jpeg)
 
@@ -78,8 +80,6 @@ As a military Administrative professional, there are certain documents that are 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 [DoDAR Preliminary Wireframes](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-preliminary-wireframes)
-
-
 
 ## Database Schema
 ![Database Schema](Capture.jpeg)
