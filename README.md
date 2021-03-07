@@ -1,4 +1,4 @@
-# DODAR
+# Department of Defense Automated-Routing (DoDAR)
 
 ## Table of Contents
 - [DoD Automated-Routing Concept Description](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dod-automated-routing-description)
