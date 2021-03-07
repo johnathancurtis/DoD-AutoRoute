@@ -3,7 +3,7 @@
 ## Table of Contents
 - [DoD Automated-Routing Concept Description](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dod-automated-routing-description)
 - [Entity Relationship Diagram (ERD)](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-erd)
-- User Stories
+- [User Stories](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#use-cases)
 - Use Cases
 - Requirements Table
 - Test Table
