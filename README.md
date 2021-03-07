@@ -5,8 +5,8 @@
 - [Entity Relationship Diagram (ERD)](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-erd)
 - [User Stories](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#User-Stories)
 - [Use Cases](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#use-cases)
-- Requirements Table
-- Test Table
+- [Requirements Table](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#requirements-table)
+- [Test Table](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#test-table)
 - [DoDAR Draft Wireframes](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-draft-wireframes)
 - [DoDAR Database Schema](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#database-schema)
 
@@ -27,9 +27,15 @@ As a military Administrative professional, there are certain documents that are 
 ## Use Cases
 ![DoD Automated Router](DoDAR-UML.jpeg)
 
+[Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
+
 ## Requirements Table
 
+[Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
+
 ## Test Tables
+
+[Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 ## [DoDAR Draft Wireframes]
 ![DoD Automated Router](Homepagewireframe1.jpg)
