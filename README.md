@@ -66,8 +66,3 @@ As a military Administrative professional, there are certain documents that are 
 ![Database Schema](Capture.jpeg)
 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
-
-[DoDAR Preliminary Wireframes](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-preliminary-wireframes)
-
-
-
