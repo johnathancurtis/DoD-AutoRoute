@@ -37,7 +37,7 @@ As a military Administrative professional, there are certain documents that are 
 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
-## [DoDAR Draft Wireframes]
+## DoDAR Draft Wireframes
 ![DoD Automated Router](Homepagewireframe1.jpg)
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
