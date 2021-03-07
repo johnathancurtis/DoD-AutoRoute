@@ -63,6 +63,7 @@ As a military Administrative professional, there are certain documents that are 
 
 
 ## Database Schema
+[Database Schema](https://github.com/johnathancurtis/DoD-AutoRoute/blob/ef44dc32f5c96107eaa9e9a7fc554a5037d8276c/PROJECT5-AutoRouteDBInquiry.sql)
 [Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 [DoDAR Preliminary Wireframes](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-preliminary-wireframes)
