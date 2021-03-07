@@ -21,6 +21,13 @@ As a military Administrative professional, there are certain documents that are 
 [Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 ## [DoDAR Preliminary Wireframes]
+![DoD Automated Router](Homepagewireframe1.jpg)
+![DoD Automated Router](Page2.jpg)
+![DoD Automated Router](Page3.jpg)
+![DoD Automated Router](Page4.jpg)
+![DoD Automated Router](Page5.jpg)
+![DoD Automated Router](Page6.jpg)
+![DoD Automated Router](Page7.jpg)
 
 ## Database Schema
 
