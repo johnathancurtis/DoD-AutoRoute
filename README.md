@@ -135,6 +135,29 @@ As a military Administrative professional, there are certain documents that are 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 ## Test Table
+## Test Table
+| Test ID | Requirement ID | Test Procedure | Current Status | TimeStamp | Build/Version |
+|---------|----------------|----------------|----------------|-----------|---------------|
+| 1       | 1			   | Unit Test      | Not Tested     | 00-00-0000 | 0.1          |
+| 2       | 1.2			   | View the DB    | Not Tested     | 00-00-0000 | 0.1          |
+| 3       | 1.3			   | Unit Test	    | Not Tested     | 00-00-0000 | 0.1          |
+| 4       | 1.3.1		   | Click on charts| Not Tested     | 00-00-0000 | 0.1          |
+| 5       | 1.4			   | Check each filter for accuracy on purchase list/Unit Test | Not Tested | 00-00-0000 | 0.1 |
+| 6       | 1.4.1			   | Type in values then check database for saved values/Unit Test | Not Tested | 00-00-0000 | 0.1 |
+| 7       | 1.4.2			   | Unit Test	    | Not Tested     | 00-00-0000 | 0.1          |
+| 8       | 2		   | Check DB for values | Not Tested     | 00-00-0000 | 0.1     |
+| 9       | 2.1		   | Unit Test      | Not Tested     | 00-00-0000 | 0.1          |
+| 10      | 2.1.1		   | Log in and out | Not Tested     | 00-00-0000 | 0.1          |
+| 11      | 2.1.2	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
+| 11      | 2.1.2	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
+| 11      | 2.1.2	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
+| 11      | 2.1.2	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
+| 11      | 2.1.2	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
+| 11      | 2.1.2	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
+| 11      | 2.1.2	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
+| 11      | 2.1.2	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
+| 11      | 2.1.2	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
+| 11      | 2.1.2	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
