@@ -57,13 +57,27 @@ As a military Administrative professional, there are certain documents that are 
 
 ## Use Cases
 
+1. Given that a user has already set up there profile, when they want to generate a new piece of correspondence for submission, then the user can generate a document without having to fill out profile information and submit the document which will route to everyone listed in the members profile chain-of-command.
+
+2. Given when the Initiating user (IN.User) has submitted correspondence for routing, and when a Reviewing Official user (RO.user) has not reviewed the submission after a period of time, then the IN.User can ping the current RO.User with a friendly reminder to review the document.
+ 
+3. Given when the IN.User has already submitted correspondence for routing, when IN.User has the time, then the IN.User can check the status of all submitted correspondence.
+ 
+4. Given when IN.User has submitted correspondence, when IN.User wants to see all correspondence currently in progress, then the IN.user can see a summary of all correspondence in progress to-date.
+
+5. Given a submission assigned to an RO.User, when the RO.User has time, then the RO.User can review a summary of all correspondence assigned  and click to review selected submission. 
+
+6. Given a submission was assigned for adjudication to an Approving Official user (AO.User), when the AO.User finds time, then the AO.User can see a summary of all correspondence assigned and adjudicate selected submission.
+ 
+7. Given that correspondence have been submitted for routing, and when the commanding officer is asking the admin department how many pieces of correspondence have been submitted, then the Admin User (Admin.User) can generate a report to review a summary of all submitted active and complete submissions. 
+
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 ![DoD Automated Router](DoDAR-UML.jpeg)
 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
-[Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
+
 
 ## Requirements Table
 
