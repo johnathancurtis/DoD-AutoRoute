@@ -135,7 +135,7 @@ As a military Administrative professional, there are certain documents that are 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 ## Test Table
-## Test Table
+
 | Test ID | Requirement ID | Test Procedure | Current Status | TimeStamp | Build/Version |
 |---------|----------------|----------------|----------------|-----------|---------------|
 | 1       | 1			   | Unit Test      | Not Tested     | 00-00-0000 | 0.1          |
