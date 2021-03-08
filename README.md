@@ -138,26 +138,33 @@ As a military Administrative professional, there are certain documents that are 
 
 | Test ID | Requirement ID | Test Procedure | Current Status | TimeStamp | Build/Version |
 |---------|----------------|----------------|----------------|-----------|---------------|
-| 1       | 1			   | Unit Test      | Not Tested     | 00-00-0000 | 0.1          |
-| 2       | 1.2			   | View the DB    | Not Tested     | 00-00-0000 | 0.1          |
-| 3       | 1.3			   | Unit Test	    | Not Tested     | 00-00-0000 | 0.1          |
-| 4       | 1.3.1		   | Click on charts| Not Tested     | 00-00-0000 | 0.1          |
-| 5       | 1.4			   | Check each filter for accuracy on purchase list/Unit Test | Not Tested | 00-00-0000 | 0.1 |
-| 6       | 1.4.1			   | Type in values then check database for saved values/Unit Test | Not Tested | 00-00-0000 | 0.1 |
-| 7       | 1.4.2			   | Unit Test	    | Not Tested     | 00-00-0000 | 0.1          |
-| 8       | 2		   | Check DB for values | Not Tested     | 00-00-0000 | 0.1     |
-| 9       | 2.1		   | Unit Test      | Not Tested     | 00-00-0000 | 0.1          |
-| 10      | 2.1.1		   | Log in and out | Not Tested     | 00-00-0000 | 0.1          |
+| 1       | 1			     | Integration Testing  | Not Tested     | 00-00-0000 | 0.1          |
+| 2       | 1.2			   | Integration Testing  | Not Tested     | 00-00-0000 | 0.1          |
+| 3       | 1.3			   | Integration Testing  | Not Tested     | 00-00-0000 | 0.1          |
+| 4       | 1.3.1		  | Unit Test            | Not Tested     | 00-00-0000 | 0.1          |
+| 5       | 1.4			   | Unit Test/Manual verification         | Not Tested     | 00-00-0000 | 0.1 |
+| 6       | 1.4.1			 | Integration Testing  | Not Tested     | 00-00-0000 | 0.1 |
+| 7       | 1.4.2			 | Unit Test/Manual verification         | Not Tested     | 00-00-0000 | 0.1          |
+| 8       | 2		      | Unit Test            | Not Tested     | 00-00-0000 | 0.1     |
+| 9       | 2.1		    | Unit Test            | Not Tested     | 00-00-0000 | 0.1          |
+| 10      | 2.1.1		  | System Test          | Not Tested     | 00-00-0000 | 0.1          |
 | 11      | 2.1.2	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
-| 11      | 2.1.2	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
-| 11      | 2.1.2	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
-| 11      | 2.1.2	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
-| 11      | 2.1.2	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
-| 11      | 2.1.2	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
-| 11      | 2.1.2	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
-| 11      | 2.1.2	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
-| 11      | 2.1.2	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
-| 11      | 2.1.2	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
+| 12      | 2.1.3	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
+| 13      | 3	       | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
+| 14      | 3.1	     | System Test          | Not Tested     | 00-00-0000 | 0.1|
+| 15      | 4    	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
+| 16      | 4.1      | System Test          | Not Tested     | 00-00-0000 | 0.1|
+| 17      | 5    	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
+| 18      | 5.1  	   | System Test          | Not Tested     | 00-00-0000 | 0.1|
+| 19      | 5.2  	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
+| 20      | 5.2.1    | System Test          | Not Tested     | 00-00-0000 | 0.1|
+| 21      | 6        | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
+| 22      | 6.1      | System Test          | Not Tested     | 00-00-0000 | 0.1|
+| 23      | 6.2      | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
+| 24      | 6.3  	   | Unti Test            | Not Tested     | 00-00-0000 | 0.1|
+| 25      | 6.4	     | Integration Test     | Not Tested     | 00-00-0000 | 0.1|
+| 26      | 7        | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
+| 27      | 8    	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
