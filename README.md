@@ -77,9 +77,60 @@ As a military Administrative professional, there are certain documents that are 
 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
+## Requirements 
+1 The system shall accept military Common Access Card (CAC) certificates for login and digital signatures.
 
+1.2 The user shall login with CAC
 
-## Requirements Table
+1.3 if member does not have login, user shall register one with CAC certificates
+
+1.3.1 System shall assign every user as both IN.User and RO.User roles as default
+
+1.4 Upon login, all users shall be able to input and update requested data in user profile.
+
+1.4.1 System shall utilize DoD whitepages database && Outlook global database for associating email to user profiles.
+
+1.4.2 User shall ensure profile data is up-to-date and that email matches email address assigned by respective DoD branch.
+ 
+2 The IN.User shall have option to generate new correspondence from a list of templates.
+
+2.1 When IN.User selects template, member shall determine if correspondence is regular or special 
+
+2.1.1 If IN.User chooses regular, system shall use default chain of command generated from user profile.
+
+2.1.2 If If IN.User chooses special, system shall allow IN.User to choose chain-of-command manually.
+
+2.1.3 System shall assign unique serial numbers to each submitted correspondence with date stamp of submission.
+ 
+3 RO.user shall review correspondence assigned, make recommendation, make notes if necessary, and digitally sign correspondence with CAC certificate. 
+
+3.1 system shall automatically send reviewed document from RO.User to next RO.User assigned in succession until it reaches AO.User.
+
+4 AO.User shall review, make notes if necessary, and adjudicate correspondence, by approving or disapproving correspondence.
+
+4.1 system shall then send adjudicated correspondence back to IN.User and a copy to database.
+
+5 IN.User shall be able to click ‘Ping’ button 
+
+5.1 Upon IN.User ‘Ping’, system shall generate current status of selected correspondence in progress, and send automated email to current RO/AO.Users to process correspondence.
+
+5.2 IN.User shall be able to click ‘Status’ button 
+
+5.2.1 Upon IN.User ‘Status’. system shall generate current status of selected correspondence in progress and NOT send an automated email to RO/AO.Users
+
+6 Admin.User shall be able to view all personnel profiles assigned to organization
+
+6.1 System shall generate list of personnel by last name and display profile information.
+
+6.2 Admin.User shall be able to assign correspondence to individuals or groups for review and signature.
+
+6.3 Admin.User shall be able to generate reports from report templates.
+
+6.4 System shall retain and send copies of all correspondence submitted to database
+
+7 Sub.Prime.Users shall be able to assign AO.Users and Admin.User roles and perform as AO.Users to anyone in the command.
+
+8 Prime.User shall be able to assign Sub.Prime.User roles to anyone assigned to command.
 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
