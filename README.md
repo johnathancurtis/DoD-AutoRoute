@@ -52,7 +52,7 @@ As a military Administrative professional, there are certain documents that are 
 - As a prime-type service member, I would like an application that allowed me to assign the authority of approving users, so that I can maintain control of who has the authority to grant request in my command. 
 #### [Prime]
 - As the prime service member of a command, I would like the ability to assign other prime type users so that I can delegate my duties as a prime user and free up my time to focus on organizational goals. 
-- 
+ 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 ![DoD Automated Router](DoDAR-UML.jpeg)
