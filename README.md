@@ -23,11 +23,44 @@ As a military Administrative professional, there are certain documents that are 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 ## User Stories
+#### [All Service Members]
+- As a service member, I would like an application that would allow me to create a profile that would have the ability to transfer from command to command when I transfer from command to command so that I do not have to fill out the same paperwork over and over upon checking in/out of my current command.
+- As a service member, I would like an application that will allow me to use a digital signature for all my standard correspondence submitted digitally.
+- As a service member, I would like an application that stored all my basic data and current chain of command as defaulted information when I generate correspondence for routing, so that I do not have to fill out the information over and over.
+#### [Initiator]
+- As an initiating service member, I want an application that will allow me to generate standard regular correspondence and submit it to my chain-of-command for review and approval digitally and from anywhere, so that I can spend more time on the mission and less time in the office.
+ -As an initiating service member, I would like my submitted correspondence to automatically continue to the next review/approver assigned upon the prior reviewer’s signature, so that I do not have to worry about my request getting lost.
+- As an initiating service member, I want an application that will allow me to generate special requests with specific reviewers and approvers of my choice to submit digitally, so that I will be able to make special request for unordinary requests. 
+- As an initiating service member, I want my regular correspondence to be submitted with all my common information and chain-of-command already filled out for me, so that I do not have to do every time a generate a request and submit it quickly.
+- As an initiating service member, I want to be able to quickly check the status of my submitted digital documents, so that I do not have to talk to the administration personnel every time I need a status. 
+- As an initiating service member, I would like to send a reminder to the person reviewing or approving my correspondence to do so soon, so that I do not have to physically find that person and remind them.
+- As an initiating service member, I would like to see all the correspondence I have submitted and a copy of all my adjudicated correspondence, so that I can reference and analyze them and have for my records.
+#### [Reviewer]
+- As a reviewing service member, I would like the ability to review documents assigned to me for review and recommendation digitally, so that I can review correspondence from anywhere quickly.
+- As a reviewing service member, I would like a text block next to my recommendation so that I can explain the reasoning of my recommendation if I choose.
+- As a reviewing service member, I would like to see all the correspondence assigned to me for review in one list, so that I do not have to look for correspondence individually. 
+- As an approving service member, I would like the ability to adjudicate documents assigned to me for adjudication digitally, so that I can adjudicate correspondence from anywhere quickly.
+#### [Approver]
+- As an approving service member, I would like a text block next to my adjudication decision so that I can explain the reasoning of my adjudication if I choose.
+- As an approving service member, I would like to see all the correspondence assigned to me for adjudication in one list, so that I do not have to look for correspondence assigned to me individually.
+#### [Administration]
+- As an Admin service member, I would like an application that would let me generate reports on submitted correspondence digitally, so that I can analyze the reports and - - identify constraints in administrative practices.
+- As an Admin service member, I would like to view all the personnel assigned to the command and be able to see their current chain of command, their POCs, and history of correspondence submitted digitally, so that I can monitor pending correspondence adjudication, and quickly contact personnel. 
+- As an Admin service member, I would like an application that will allow me to assign documents to anyone person or group of people in the command for review and signature and assign a due date, so that I can complete tasks that require command cognizance quickly. 
+- As an Admin service member, I would like an application that can generate and process regular correspondence digitally, so that I do not have to generate them physically and risk carbon copies loss, damage, corrections and wasted time. 
+#### [Prime-Types]
+- As a prime-type service member, I would like an application that allowed me to assign the authority of approving users, so that I can maintain control of who has the authority to grant request in my command. 
+#### [Prime]
+- As the prime service member of a command, I would like the ability to assign other prime type users so that I can delegate my duties as a prime user and free up my time to focus on organizational goals. 
+- 
+[Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
+
+![DoD Automated Router](DoDAR-UML.jpeg)
 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 ## Use Cases
-![DoD Automated Router](DoDAR-UML.jpeg)
+
 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
