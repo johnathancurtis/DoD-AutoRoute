@@ -39,8 +39,8 @@ As a military Administration Professional, there are certain documents that are 
 - As a reviewing service member, I would like the ability to review documents assigned to me for review and recommendation digitally, so that I can review correspondence from anywhere quickly.
 - As a reviewing service member, I would like a text block next to my recommendation so that I can explain the reasoning of my recommendation if I choose.
 - As a reviewing service member, I would like to see all the correspondence assigned to me for review in one list, so that I do not have to look for correspondence individually. 
-- As an approving service member, I would like the ability to adjudicate documents assigned to me for adjudication digitally, so that I can adjudicate correspondence from anywhere quickly.
 #### [Approver]
+- As an approving service member, I would like the ability to adjudicate documents assigned to me for adjudication digitally, so that I can adjudicate correspondence from anywhere quickly.
 - As an approving service member, I would like a text block next to my adjudication decision so that I can explain the reasoning of my adjudication if I choose.
 - As an approving service member, I would like to see all the correspondence assigned to me for adjudication in one list, so that I do not have to look for correspondence assigned to me individually.
 #### [Administration]
