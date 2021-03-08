@@ -55,12 +55,13 @@ As a military Administrative professional, there are certain documents that are 
  
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
-![DoD Automated Router](DoDAR-UML.jpeg)
+## Use Cases
 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
-## Use Cases
+![DoD Automated Router](DoDAR-UML.jpeg)
 
+[Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
