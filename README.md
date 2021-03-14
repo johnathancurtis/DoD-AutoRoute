@@ -18,7 +18,7 @@ As a military Administration Professional, there are certain documents that are 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 ## DoDAR ERD
-![DoD Automated Router](DODAR-ERD.jpeg) 
+![DoD Automated Router](Archive/DODAR-ERD.jpeg) 
 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
@@ -73,7 +73,7 @@ As a military Administration Professional, there are certain documents that are 
 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
-![DoD Automated Router](DoDAR-UML.jpeg)
+![DoD Automated Router](Archive/DoDAR-UML.jpeg)
 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
@@ -169,48 +169,48 @@ As a military Administration Professional, there are certain documents that are 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 ## DoDAR Draft Wireframes
-![DoD Automated Router](Homepagewireframe1.jpg)
+![DoD Automated Router](Archive/Homepagewireframe1.jpg)
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 [DoDAR Preliminary Wireframes](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-preliminary-wireframes)
 
 
-![DoD Automated Router](Page2.jpg)
+![DoD Automated Router](Archive/Page2.jpg)
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 [DoDAR Preliminary Wireframes](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-preliminary-wireframes)
 
 
-![DoD Automated Router](Page3.jpg)
+![DoD Automated Router](Archive/Page3.jpg)
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 [DoDAR Preliminary Wireframes](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-preliminary-wireframes)
 
 
-![DoD Automated Router](Page4.jpg)
+![DoD Automated Router](Archive/Page4.jpg)
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 [DoDAR Preliminary Wireframes](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-preliminary-wireframes)
 
 
-![DoD Automated Router](Page5.jpg)
+![DoD Automated Router](Archive/Page5.jpg)
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 [DoDAR Preliminary Wireframes](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-preliminary-wireframes)
 
 
-![DoD Automated Router](Page6.jpg)
+![DoD Automated Router](Archive/Page6.jpg)
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 [DoDAR Preliminary Wireframes](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-preliminary-wireframes)
 
 
-![DoD Automated Router](Page8.jpg)
+![DoD Automated Router](Archive/Page8.jpg)
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 [DoDAR Preliminary Wireframes](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-preliminary-wireframes)
 
 ## Database Schema
-![Database Schema](Capture.jpeg)
+![Database Schema](Archive/Capture.jpeg)
 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
