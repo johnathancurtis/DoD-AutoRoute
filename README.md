@@ -44,7 +44,7 @@ As a military Administration Professional, there are certain documents that are 
 - As an approving service member, I would like a text block next to my adjudication decision so that I can explain the reasoning of my adjudication if I choose.
 - As an approving service member, I would like to see all the correspondence assigned to me for adjudication in one list, so that I do not have to look for correspondence assigned to me individually.
 #### [*Administration*]
-- As an Admin service member, I would like an application that would let me generate reports on submitted correspondence digitally, so that I can analyze the reports and - - identify constraints in administrative practices.
+- As an Admin service member, I would like an application that would let me generate reports on submitted correspondence digitally, so that I can analyze the reports and identify constraints in administrative practices.
 - As an Admin service member, I would like to view all the personnel assigned to the command and be able to see their current chain of command, their POCs, and history of correspondence submitted digitally, so that I can monitor pending correspondence adjudication, and quickly contact personnel. 
 - As an Admin service member, I would like an application that will allow me to assign documents to anyone person or group of people in the command for review and signature and assign a due date, so that I can complete tasks that require command cognizance quickly. 
 - As an Admin service member, I would like an application that can generate and process regular correspondence digitally, so that I do not have to generate them physically and risk carbon copies loss, damage, corrections and wasted time. 
