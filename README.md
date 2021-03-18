@@ -49,7 +49,7 @@ As a military Administration Professional, there are certain documents that are 
 - As an Admin service member, I would like an application that will allow me to assign documents to anyone person or group of people in the command for review and signature and assign a due date, so that I can complete tasks that require command cognizance quickly. 
 - As an Admin service member, I would like an application that can generate and process regular correspondence digitally, so that I do not have to generate them physically and risk carbon copies loss, damage, corrections and wasted time. 
 #### [*Prime-Types*]
-- As a prime-type service member, I would like an application that allowed me to assign the authority of approving users and Admin users, so that I can maintain control of who has the authority to approve request and veiew sensitive information in my command. 
+- As a prime-type service member, I would like an application that allowed me to assign the authority of Approving users and Admin users, so that I can maintain control of who has the authority to approve request and view sensitive information in my command. 
 #### [*Prime*]
 - As the **PRIME** service member of a command, I would like the ability to assign other prime type users so that I can delegate my duties as a prime user and free up my time to focus on organizational goals. 
  
