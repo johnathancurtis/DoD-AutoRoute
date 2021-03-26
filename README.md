@@ -3,12 +3,12 @@
 ## Table of Contents
 - [DoD Automated-Routing Concept Description](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dod-automated-routing-concept-description)
 - [Entity Relationship Diagram (ERD)](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-erd)
+- [DoDAR Database Schema](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#database-schema)
 - [User Stories](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#User-Stories)
 - [Use Cases](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#use-cases)
 - [Requirements](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#requirements)
 - [Test Table](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#test-table)
 - [DoDAR Draft Wireframes](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-draft-wireframes)
-- [DoDAR Database Schema](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#database-schema)
 
 
 ## DoD Automated-Routing Concept Description:
@@ -19,6 +19,11 @@ As a military Administration Professional, there are certain documents that are 
 
 ## DoDAR ERD
 ![DoD Automated Router](Archive/DODAR-ERD.jpeg) 
+
+[Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
+
+## Database Schema
+![Database Schema](Archive/Capture.jpeg)
 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
@@ -209,8 +214,5 @@ As a military Administration Professional, there are certain documents that are 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 [DoDAR Preliminary Wireframes](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-preliminary-wireframes)
-
-## Database Schema
-![Database Schema](Archive/Capture.jpeg)
 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
