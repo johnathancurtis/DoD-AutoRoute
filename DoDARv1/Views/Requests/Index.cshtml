@@ -1,0 +1,53 @@
+﻿@model IEnumerable<DoDARv1.Models.Request>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Serial)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SpecialType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RegularType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateIn)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Serial)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SpecialType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RegularType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateIn)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Uic">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Uic">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Uic">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoDARv1", "DoDARV1\DoDARv1.csproj", "{A3855AD3-3032-4E7D-9239-4D5AB3203E3D}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DoDARDB", "DoDARDB\DoDARDB.sqlproj", "{9C028FCC-2597-4DA9-8627-1679CE1DE0D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3855AD3-3032-4E7D-9239-4D5AB3203E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3855AD3-3032-4E7D-9239-4D5AB3203E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3855AD3-3032-4E7D-9239-4D5AB3203E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3855AD3-3032-4E7D-9239-4D5AB3203E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C028FCC-2597-4DA9-8627-1679CE1DE0D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C028FCC-2597-4DA9-8627-1679CE1DE0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C028FCC-2597-4DA9-8627-1679CE1DE0D9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9C028FCC-2597-4DA9-8627-1679CE1DE0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C028FCC-2597-4DA9-8627-1679CE1DE0D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C028FCC-2597-4DA9-8627-1679CE1DE0D9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC67A381-9585-4F47-BC13-5D5A52F7F563}
+	EndGlobalSection
+EndGlobal
