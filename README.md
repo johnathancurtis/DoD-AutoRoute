@@ -9,7 +9,7 @@
 - [Requirements](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#requirements)
 - [Test Table](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#test-table)
 - [DoDAR Draft Wireframes](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-draft-wireframes)
-- [DoDAR Current Code](https://github.com/johnathancurtis/DoD-AutoRoute.git)
+- [DoDAR Current Code](https://github.com/johnathancurtis/DoD-AutoRoute/tree/master)
 
 
 ## DoD Automated-Routing Concept Description:
