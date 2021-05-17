@@ -27,6 +27,9 @@ As a military Administration Professional, there are certain documents that are 
 ## Database Schema
 ![Database Schema](Archive/Capture.jpeg)
 
+## Database Diagram
+![Database Diagram](Archive/DODARDBV1Diagrams.PNG)
+
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 ## User Stories
