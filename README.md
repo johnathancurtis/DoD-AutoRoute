@@ -154,7 +154,7 @@ As a military Administration Professional, there are certain documents that are 
 | 2       | 1.2			   | Integration Testing  |🔴| 00-00-0000 | 0.1          |
 | 3       | 1.3			   | Integration Testing  |🔴| 00-00-0000 | 0.1          |
 | 4       | 1.3.1		  | Unit Test            |🔴| 00-00-0000 | 0.1          |
-| 5       | 1.4			   | Unit Test/Manual verification         | Not Tested     | 00-00-0000 | 0.1 |
+| 5       | 1.4			   | Unit Test/Manual verification |🔴| 00-00-0000 | 0.1 |
 | 6       | 1.4.1			 | Manual Verification  |🔴| 00-00-0000 | 0.1          |
 | 7       | 1.4.2			 | Manual verification  |:green_circle: | 05-15-2021 | 0.3          |
 | 8       | 2		      | Unit Test            |🔴| 00-00-0000 | 0.1          |
@@ -166,7 +166,7 @@ As a military Administration Professional, there are certain documents that are 
 | 14      | 3.1	     | System Test          |🔴| 00-00-0000 | 0.1|
 | 15      | 4    	   | Unit Test/Manual verification |🔴| 00-00-0000 | 0.1|
 | 16      | 4.1      | System Test          |🔴| 00-00-0000 | 0.1|
-| 17      | 5    	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
+| 17      | 5    	   | Unit Test/Manual verification |🔴| 00-00-0000 | 0.1|
 | 18      | 5.1  	   | System Test          |🔴| 00-00-0000 | 0.1|
 | 19      | 5.2  	   | Unit Test/Manual verification |🔴| 00-00-0000 | 0.1|
 | 20      | 5.2.1    | System Test          |🔴| 00-00-0000 | 0.1|
