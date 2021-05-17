@@ -4,7 +4,7 @@
 - [DoD Automated-Routing Concept Description](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dod-automated-routing-concept-description)
 - [Entity Relationship Diagram (ERD)](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-erd)
 - [DoDAR Database Schema](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#database-schema)
-- [DoDAR Database Diagrams](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/Archive/DODARDBV1Diagrams.PNG?raw=true
+- [DoDAR Database Diagrams](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#database-diagram)
 - [User Stories](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#User-Stories)
 - [Use Cases](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#use-cases)
 - [Requirements](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#requirements)
@@ -26,9 +26,11 @@ As a military Administration Professional, there are certain documents that are 
 
 ## Database Schema
 ![Database Schema](Archive/Capture.jpeg)
+[Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 ## Database Diagram
 ![Database Diagram](Archive/DODARDBV1Diagrams.PNG)
+[Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
