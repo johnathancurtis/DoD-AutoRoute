@@ -156,12 +156,12 @@ As a military Administration Professional, there are certain documents that are 
 | 4       | 1.3.1		  | Unit Test            | Not Tested     | 00-00-0000 | 0.1          |
 | 5       | 1.4			   | Unit Test/Manual verification         | Not Tested     | 00-00-0000 | 0.1 |
 | 6       | 1.4.1			 | Manual Verification  | Not Tested     | 00-00-0000 | 0.1          |
-| 7       | 1.4.2			 | Manual verification  | Tested/Good    | 05-15-2021 | 0.3          |
+| 7       | 1.4.2			 | Manual verification  | :green_circle: | 05-15-2021 | 0.3          |
 | 8       | 2		      | Unit Test            | Not Tested     | 00-00-0000 | 0.1          |
-| 9       | 2.1		    | Manual Verification  | Tested/Good    | 05-14-2021 | 0.3          |
+| 9       | 2.1		    | Manual Verification  |:green_circle:  | 05-14-2021 | 0.3          |
 | 10      | 2.1.1		  | System Test          | Not Tested     | 00-00-0000 | 0.1          |
 | 11      | 2.1.2	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
-| 12      | 2.1.3	   | Unit Test/Manual verification |Tested/Good     | 05-14-2021 | 0.3|
+| 12      | 2.1.3	   | Unit Test/Manual verification |:green_circle:  | 05-14-2021 | 0.3|
 | 13      | 3	       | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
 | 14      | 3.1	     | System Test          | Not Tested     | 00-00-0000 | 0.1|
 | 15      | 4    	   | Unit Test/Manual verification | Not Tested     | 00-00-0000 | 0.1|
