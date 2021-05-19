@@ -11,6 +11,7 @@
 - [Test Table](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#test-table)
 - [DoDAR Draft Wireframes](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-draft-wireframes)
 - [DoDAR Current Code](https://github.com/johnathancurtis/DoD-AutoRoute/tree/master)
+- [Final Project Review with SD9]()
 
 
 ## DoD Automated-Routing Concept Description:
@@ -219,3 +220,15 @@ As a military Administration Professional, there are certain documents that are 
 
 ![DoD Automated Router](Archive/Page8.jpg)
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
+
+##Final Project Review with MSSA SD9
+
+### What did you do wrong?
+I think the main thing I did wrong from the start was having to many ambitious goals/requirements and features planned for the project. I found myself drowning in so many ways and methods to approach things, but with no way forward in how to patch all the ideas together. This left me overwhelmed and unproductive. Furthermore, thinking that my ideas were simple led me to grossly underestimate the complexity of my project as a whole. On top of that, my database migrations were done incorrectly and migrations were done premature which led to my CRUD operations either not updating my connected databases, or ignored completly by the program. Another big pitfall was my code upload to Github. I had on not one, but two separate occassions deleted the original code to my project do to my lack of understanding with Github. While this was a big set back for me, because I was forced to redo my project code so many times, I was forced into a lot of practice and collaboration with my peers.    
+
+### Where were you lucky?
+I got lucky in the last couple of weeks of the class. Despite personal logists stealing my time away, I was able to recover a lot of lost ground and come close to an MVP. Specifically, my database migrations where a huge success and hosted on Azure no less. While migrating locally to the cloud is a simple endeavor, managing my databases via Azure was even easier, as well as great learning tool. Also, for some reason, I am understanding all the theories and fundamentals on a much more clear level. I think it's due to my REM sleep and my subconscience finally able to decipher what I have been learning for the past several weeks. It's all coming together. 
+
+### What would you change/what do you know now that you wish you knew "then"?
+If I could change things, I probably would have picked an easier project to pursue that was more focused on the curriculum, rather than a bunch of lofty goals that require much more complex research and Nugets. Also, now knowing what I know, breaking down my goals into small bite size peices and knocking them out 1 by 1, 1 Sprint at a time, would have been a much better approach than finishing what I can at the last minute. Also, I wish I wasn't in the middle of moving my family to another city and transitioning from the Navy in the same window of time. That just seemed to compound the difficulty of everything. That said, I think the biggest take away I have learned that will prove inavluable for all my future projects are the following; Collaboration with your pals is wonderful, create measurable and practical goals when setting up your sprints, and keeping backups of your code on your local machine, as well as on github and perhaps even a container on Azure. And finally, I wish I knew more about ASP.NEt MVC from the onset so I could learn even more. I feel like i vae just scratched the surface. 
+
