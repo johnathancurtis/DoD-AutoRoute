@@ -10,7 +10,7 @@
 - [Requirements](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#requirements)
 - [Test Table](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#test-table)
 - [DoDAR Draft Wireframes](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-draft-wireframes)
-- [DoDAR Current Code](https://github.com/johnathancurtis/DoD-AutoRoute/tree/master)
+- [DoDAR Current Code](https://github.com/johnathancurtis/DoD-AutoRoute/tree/main/CurrentCode)
 - [Final Project Review with SD9](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#what-did-you-do-wrong)
 
 
