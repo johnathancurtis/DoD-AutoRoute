@@ -11,7 +11,7 @@
 - [Test Table](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#test-table)
 - [DoDAR Draft Wireframes](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#dodar-draft-wireframes)
 - [DoDAR Current Code](https://github.com/johnathancurtis/DoD-AutoRoute/tree/master)
-- [Final Project Review with SD9]()
+- [Final Project Review with SD9](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#what-did-you-do-wrong)
 
 
 ## DoD Automated-Routing Concept Description:
@@ -231,4 +231,9 @@ I got lucky in the last couple of weeks of the class. Despite personal logists s
 
 ### What would you change/what do you know now that you wish you knew "then"?
 If I could change things, I probably would have picked an easier project to pursue that was more focused on the curriculum, rather than a bunch of lofty goals that require much more complex research and Nugets. Also, now knowing what I know, breaking down my goals into small bite size peices and knocking them out 1 by 1, 1 Sprint at a time, would have been a much better approach than finishing what I can at the last minute. Also, I wish I wasn't in the middle of moving my family to another city and transitioning from the Navy in the same window of time. That just seemed to compound the difficulty of everything. That said, I think the biggest take away I have learned that will prove inavluable for all my future projects are the following; Collaboration with your pals is wonderful, create measurable and practical goals when setting up your sprints, and keeping backups of your code on your local machine, as well as on github and perhaps even a container on Azure. And finally, I wish I knew more about ASP.NEt MVC from the onset so I could learn even more. I feel like i vae just scratched the surface. 
+
+### Conclusion
+I do plan to finish this project and add many more features. The more I grow as a developer the more robust this program is going to become. 
+
+[Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
