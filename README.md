@@ -221,7 +221,7 @@ As a military Administration Professional, there are certain documents that are 
 ![DoD Automated Router](Archive/Page8.jpg)
 [Back to Table of Contents](https://github.com/johnathancurtis/DoD-AutoRoute/blob/main/README.md#table-of-contents)
 
-##Final Project Review with MSSA SD9
+## Final Project Review with MSSA SD9
 
 ### What did you do wrong?
 I think the main thing I did wrong from the start was having to many ambitious goals/requirements and features planned for the project. I found myself drowning in so many ways and methods to approach things, but with no way forward in how to patch all the ideas together. This left me overwhelmed and unproductive. Furthermore, thinking that my ideas were simple led me to grossly underestimate the complexity of my project as a whole. On top of that, my database migrations were done incorrectly and migrations were done premature which led to my CRUD operations either not updating my connected databases, or ignored completly by the program. Another big pitfall was my code upload to Github. I had on not one, but two separate occassions deleted the original code to my project do to my lack of understanding with Github. While this was a big set back for me, because I was forced to redo my project code so many times, I was forced into a lot of practice and collaboration with my peers.    
